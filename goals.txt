@@ -1,0 +1,6 @@
+=============================================
+GOALS OF THIS PROJECT
+
+* Get basic knowledge about git and github
+* Get some practice with remote repositories
+
